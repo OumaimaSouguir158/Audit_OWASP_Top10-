@@ -42,13 +42,3 @@ en code Python afin de documenter la méthodologie de bout en bout.
 ## Ce que ça démontre au jury
 Capacité à mener un audit structuré et documenté — compétence directement
 employable en cabinet de conseil sécurité.
-
-## Ligne CV
-« Audit de sécurité web — méthodologie OWASP, OWASP ZAP/Burp Suite, rapport
-de vulnérabilités priorisé. »
-
-## Question d'entretien possible
-Comment priorisez-vous les vulnérabilités détectées dans un rapport d'audit ?
-→ Réponse type : par sévérité (impact × exploitabilité), en croisant la
-classification OWASP avec le contexte métier de l'application (donnée
-exposée, criticité de la route, présence d'authentification).
