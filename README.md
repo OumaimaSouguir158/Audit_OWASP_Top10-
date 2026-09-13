@@ -1,8 +1,4 @@
 # Projet 2 — Audit de sécurité d'une application web selon l'OWASP Top 10
-
-Niveau intermédiaire 🟡 · ~3-4 semaines
-**Master visé :** Cyberdéfense et Sécurité de l'Information (CDSI) — UPHF
-
 ## Objectif
 Réaliser un audit de sécurité complet d'une application web volontairement
 vulnérable, en suivant la méthodologie OWASP.
